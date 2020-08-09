@@ -1,7 +1,8 @@
 # Image_Recognition_Android_Application (20200710 ~)
 - A mobile android application that uses Deeplearning to recognize images in real-time taken by the mobile phone's camera.
 - This project is maintained by [정명지](https://github.com/mongdii), 오서영, [강성원](https://github.com/Soric-stu)
-- Our Team name is "Trinity"
+- Our Team name is **"Trinity"**  
+
 ## Process
 > 1. 20200706 ~ 20200712  
 
@@ -16,8 +17,8 @@
 |Developer|Individual Role|
 |---|------|
 |정명지|Handwriting application structure design|
-|오서영|Basic Machine learning presentation - Image classification|
-|강성원|Basic JAVA presentation - Android Studio|  
+|오서영|Basic **Machine learning** presentation - Image classification|
+|강성원|Basic JAVA presentation - **Android Studio**|  
 
 > 3. 20200727 ~ 20200803  
 
