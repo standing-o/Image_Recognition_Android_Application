@@ -9,7 +9,7 @@
 |Developer|Individual Role|
 |---|------|
 |정명지|Basic bio study, image crawling|
-|오서영|Basic Machine learning presentation - Overview  [[Presentation]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Presentation/20200710_basic_ML_1.pdf)|
+|오서영|Basic Machine learning presentation - Overview    [[Presentation]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Presentation/20200710_basic_ML_1.pdf)|
 |강성원|Basic JAVA presentation - Overview|  
 
 > 2. 20200713 ~ 20200719  
@@ -33,7 +33,7 @@
 |Developer|Individual Role|
 |---|------|
 |정명지|Data collection for application - flower dataset (name, scientific name, flower language)  [[In-app dataset]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/In-app_Data)|
-|오서영|Mobile app Banner design, Implementation of Baseline CNN with flower image dataset  [[Banner design]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Main_Design/launch_screen)  [[Baseline CNN]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Image_recognition_DeepLearning_Models/20200807_baseline_CNN/Baseline_CNN.ipynb)|
+|오서영|Mobile app Banner design, Implementation of Baseline CNN with flower image dataset  [[Banner design]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Main_Design/launch_screen)  [[Baseline CNN code]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Image_recognition_DeepLearning_Models/20200807_baseline_CNN/Baseline_CNN.ipynb)|
 |강성원|Implementation of mobile app - UI relocation, touch event|  
 
 
