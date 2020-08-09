@@ -8,7 +8,7 @@
 
 |Developer|Individual Role|
 |---|------|
-|정명지|Basic bio study, image crawling|
+|<center> 정명지</center> |Basic bio study, image crawling|
 |오서영|Basic Machine learning presentation - Overview|
 |강성원|Basic JAVA presentation - Overview|  
 
