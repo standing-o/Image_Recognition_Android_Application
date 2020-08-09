@@ -9,7 +9,7 @@
 |---|---|---|
 |정명지|Basic bio study, image crawling|
 |오서영|Basic Machine learning presentation - Overview|
-|강성원|Basic JAVA presentation - Overview|
+|강성원|Basic JAVA presentation - Overview|  
 
 2. 20200713 ~ 20200719  
 
@@ -17,7 +17,7 @@
 |---|---|---|
 |정명지|Handwriting application structure design|
 |오서영|Basic Machine learning presentation - Image classification|
-|강성원|Basic JAVA presentation - Android Studio|
+|강성원|Basic JAVA presentation - Android Studio|  
 
 3. 20200727 ~ 20200803  
 
@@ -25,7 +25,7 @@
 |---|---|---|
 |정명지|Data collection for learning - flower dataset (image)|
 |오서영|Mobile app design - icon, color, view|
-|강성원|Implementation of basic mobile app - touch slide motion event|
+|강성원|Implementation of basic mobile app - touch slide motion event|  
 
 4. 20200803 ~ 20200809  
 
@@ -33,7 +33,7 @@
 |---|---|---|
 |정명지|Data collection for application - flower dataset (name, scientific name, flower language)|
 |오서영|Mobile app Banner design, Implementation of Baseline CNN with flower image dataset|
-|강성원|Implementation of mobile app - UI relocation, touch event|
+|강성원|Implementation of mobile app - UI relocation, touch event|  
 
 
 ## Dataset
