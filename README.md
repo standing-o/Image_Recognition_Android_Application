@@ -37,7 +37,8 @@
 |강성원|Implementation of mobile app - UI relocation, touch event|  
 
 
-## Dataset
+## Dataset for DeepLearning
+1. Tensorflow Dataset - tf_flowers, https://www.tensorflow.org/datasets/catalog/tf_flowers  
 
 ## Architecture
 
