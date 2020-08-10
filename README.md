@@ -32,10 +32,8 @@
 
 |Developer|Individual Role|
 |---|------|
-|정명지|Data collection for application - flower dataset  
-(name, scientific name, flower language) ___ [[In-app dataset]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/In-app_Data)|
-|오서영|Mobile app Banner design, Implementation of Baseline CNN  
-with flower image dataset ___ [[Banner design]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Main_Design/launch_screen)  [[Model code]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Image_recognition_DeepLearning_Models/20200807_baseline_CNN/Baseline_CNN.ipynb)|
+|정명지|Data collection for application - flower dataset (name, scientific name) ___ [[In-app dataset]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/In-app_Data)|
+|오서영|Mobile app Banner design, Implementation of Baseline CNN with flower image dataset ___ [[Banner design]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Main_Design/launch_screen)  [[Model code]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Image_recognition_DeepLearning_Models/20200807_baseline_CNN/Baseline_CNN.ipynb)|
 |강성원|Implementation of mobile app - UI relocation, touch event|  
 
 
