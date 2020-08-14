@@ -17,7 +17,7 @@
 |Developer|Individual Role|
 |---|------|
 |정명지|Handwriting application structure design ___ [[Rough design]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Rough_Design)|
-|오서영|Basic **Machine learning** presentation - Image classification ___ [[Presentation]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Presentation/20200710_basic_ML_2.pdf)|
+|오서영|Basic Machine learning presentation - **Image classification with CNN** ___ [[Presentation]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Presentation/20200710_basic_ML_2.pdf)|
 |강성원|Basic JAVA presentation - **Android Studio**|  
 
 > 3. 20200727 ~ 20200803  
