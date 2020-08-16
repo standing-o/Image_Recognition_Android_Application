@@ -33,16 +33,31 @@
 |Developer|Individual Role|
 |---|------|
 |정명지|Data collection for application - flower dataset (common/scientific name) ___ [[In-app dataset]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/In-app_Data)|
-|오서영|Mobile app Banner design, Baseline CNN with flower image dataset ___ [[Banner design]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Main_Design/launch_screen)  [[Model code]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Image_recognition_DeepLearning_Models/20200807_baseline_CNN/Baseline_CNN.ipynb)|
+|오서영|Mobile app Banner design, **Baseline CNN** with flower image dataset ___ [[Banner design]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Main_Design/launch_screen)  [[Model code]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Image_recognition_DeepLearning_Models/20200807_baseline_CNN/Baseline_CNN.ipynb)|
 |강성원|Implementation of mobile app - UI relocation, touch event|  
 
+> 5. 20200810 ~ 20200816  
+
+|Developer|Individual Role|
+|---|------|
+|정명지|Google Image crawling for training|
+|오서영|Single layer NN Presentation for study, **Resnet** with flower image dataset ___ [[Presentation]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Presentation_for_study/20200816_basic_ML_3/20200816_Single_Layer_Neural_Network.ipynb)  [[Model code]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Image_recognition_DeepLearning_Models/20200816_Resnet_code/Resnet_with_flower_dataset.ipynb)|
+|강성원|Android Studio Presentation for study, Implementation of mobile app - Animation, in-app data insertion|  
 
 ## Dataset for DeepLearning
 1. Tensorflow Dataset - tf_flowers, https://www.tensorflow.org/datasets/catalog/tf_flowers  
 
-## Architecture
+## Result
+1. Baseline CNN (50 iterations)
+Train accuracy : 72.50%
+Val accuracy : 76.88%
+
+2. Resnet (50 iterations) 
+Train accuracy : 85.00%
+Val accuracy : 66.25%
 
 ## Reference
+[1] [coding-practice by osterburg], https://github.com/osterburg/coding-practice
 
 
 
