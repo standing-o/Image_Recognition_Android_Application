@@ -49,11 +49,11 @@
 
 ## Result
 1. Baseline CNN (50 iterations)  
-Train accuracy : 72.50%
+Train accuracy : 72.50%  
 Val accuracy : 76.88%
 
 2. Resnet (50 iterations)  
-Train accuracy : 85.00%
+Train accuracy : 85.00%  
 Val accuracy : 66.25%
 
 ## Reference
