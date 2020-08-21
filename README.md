@@ -48,13 +48,15 @@
 1. Tensorflow Dataset - tf_flowers, https://www.tensorflow.org/datasets/catalog/tf_flowers  
 
 ## Result
-1. Baseline CNN (50 iterations)  
+1. Baseline CNN (2939 training set, 100 iterations)  
 Train accuracy : 72.50%  
 Val accuracy : 76.88%
 
-2. Resnet (50 iterations)  
+2. Resnet (2939 training set, 50 iterations)  
 Train accuracy : 85.00%  
 Val accuracy : 66.25%
+
+
 
 ## Reference
 [1] [coding-practice by osterburg], https://github.com/osterburg/coding-practice
