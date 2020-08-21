@@ -58,22 +58,22 @@ Val accuracy: 69.38%
 Train accuracy : 85.00%  
 Val accuracy : 66.25%
 
-- 4685 training set with 5 clas
+- 4685 training set with 5 class
 1. Baseline **CNN** (100 iterations, 64 batch)  
 Train accuracy: 72.19%  
-Val accuracy: 70.00% 
+Val accuracy: 70.00%  
 
 2. Baseline **CNN** (100 iterations, 32 batch)  
-Train accuracy: 83.13%
-Val accuracy: 73.12%
+Train accuracy: 83.13%  
+Val accuracy: 73.12%  
 
 3. Baseline **CNN** (100 iterations, 16 batch)  
-Train accuracy: 95.00%
-Val accuracy: 73.75%
+Train accuracy: 95.00%  
+Val accuracy: 73.75%  
 
 4. **Resnet** (4685 training set with 5 class, 50 iterations, 32 batch)  
-Train accuracy: 79.37%
-Val accuracy: 65.62%
+Train accuracy: 79.37%  
+Val accuracy: 65.62%  
 
 
 
