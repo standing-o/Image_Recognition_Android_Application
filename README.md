@@ -49,21 +49,25 @@
     the number of classes : **5** (daisy, dandelion, roses, sunflowers, tulips)
 
 ## Result
-1. Baseline **CNN** (2939 training set with 5 class, 100 iterations)  
+1. Baseline **CNN** (2939 training set with 5 class, 100 iterations, 32 batch)  
 Train accuracy: 85.62%  
 Val accuracy: 69.38%
 
-2. **Resnet** (2939 training set with 5 class, 50 iterations)  
+2. **Resnet** (2939 training set with 5 class, 50 iterations, 32 batch)  
 Train accuracy : 85.00%  
 Val accuracy : 66.25%
 
-3. Baseline **CNN** (4685 training set with 5 class, 100 iterations)  
+3. Baseline **CNN** (4685 training set with 5 class, 100 iterations, 64 batch)  
 Train accuracy: 72.19%  
-Val accuracy: 70.00%  
+Val accuracy: 70.00% 
 
-4. **Resnet** (4685 training set with 5 class, 50 iterations)  
-Train accuracy : 
-Val accuracy : 
+4. Baseline **CNN** (4685 training set with 5 class, 100 iterations, 32 batch)  
+Train accuracy: 
+Val accuracy: 
+
+5. **Resnet** (4685 training set with 5 class, 50 iterations, 32 batch)  
+Train accuracy: 
+Val accuracy: 
 
 
 
