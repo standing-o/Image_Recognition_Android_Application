@@ -50,15 +50,15 @@
 
 ## Result
 - 2939 training set with 5 class
-1. Baseline **CNN** (100 iterations, 32 batch)  [[Model]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Image_recognition_DeepLearning_Models/20200807_baseline_CNN_code
+1. Baseline **CNN** (100 iterations, 32 batch)  [[Model]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Image_recognition_DeepLearning_Models/20200807_baseline_CNN_code)  
 Train accuracy: 85.62%  
 Val accuracy: 69.38%
 
-2. **Resnet** (50 iterations, 32 batch)  [[Model]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Image_recognition_DeepLearning_Models/20200816_Resnet_code)
+2. **Resnet** (50 iterations, 32 batch)  [[Model]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Image_recognition_DeepLearning_Models/20200816_Resnet_code)  
 Train accuracy : 85.00%  
 Val accuracy : 66.25%
 
-- 4685 training set with 5 class [[Model]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Image_recognition_DeepLearning_Models/20200823_Model_Selection_with_more_data)
+- 4685 training set with 5 class [[Model]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Image_recognition_DeepLearning_Models/20200823_Model_Selection_with_more_data)  
 1. Baseline **CNN** (100 iterations, 64 batch)  
 Train accuracy: 72.19%  
 Val accuracy: 70.00%  
