@@ -50,7 +50,7 @@
 
 ## Result
 1. Baseline **CNN** (2939 training set with 5 class, 100 iterations)  
-Train accuracy: 85.62%
+Train accuracy: 85.62%  
 Val accuracy: 69.38%
 
 2. **Resnet** (2939 training set with 5 class, 50 iterations)  
