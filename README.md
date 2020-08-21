@@ -46,7 +46,7 @@
 
 ## Dataset for DeepLearning
 1. Tensorflow Dataset - tf_flowers, https://www.tensorflow.org/datasets/catalog/tf_flowers  
-> the number of classes : **5** (daisy, dandelion, roses, sunflowers, tulips)
+    the number of classes : **5** (daisy, dandelion, roses, sunflowers, tulips)
 
 ## Result
 1. Baseline **CNN** (2939 training set with 5 class, 100 iterations)  
