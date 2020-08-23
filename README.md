@@ -44,6 +44,14 @@
 |오서영|Single layer NN Presentation for study, **Resnet** with flower image dataset ___ [[Presentation]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Presentation_for_study/20200816_basic_ML_3/20200816_Single_Layer_Neural_Network.ipynb)  [[Model code]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Image_recognition_DeepLearning_Models/20200816_Resnet_code/Resnet_with_flower_dataset.ipynb)|
 |강성원|Android Studio Presentation for study, Implementation of mobile app - Animation, in-app data insertion|  
 
+> 6. 20200817 ~ 20200823  
+
+|Developer|Individual Role|
+|---|------|
+|정명지|Google Image crawling for training|
+|오서영|Model Selection to complement accuracy, Page Design|
+|강성원|Implementation of mobile app - Add new pages with page design|  
+
 ## Dataset for DeepLearning
 1. Tensorflow Dataset - tf_flowers, https://www.tensorflow.org/datasets/catalog/tf_flowers  
     the number of classes : **5** (daisy, dandelion, roses, sunflowers, tulips)
