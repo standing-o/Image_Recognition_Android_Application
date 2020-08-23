@@ -83,7 +83,9 @@ Val accuracy: 73.75%
 Train accuracy: 79.37%  
 Val accuracy: 65.62%  
 
-
+5. Baseline **CNN** (100 iterations, no batch)  
+Train accuracy: 80.00%  
+Val accuracy: 80.75%  
 
 ## Reference
 [1] [coding-practice by osterburg], https://github.com/osterburg/coding-practice
