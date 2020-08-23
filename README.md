@@ -79,7 +79,7 @@ Val accuracy: 73.12%
 Train accuracy: 95.00%  
 Val accuracy: 73.75%  
 
-4. **Resnet** (4685 training set with 5 class, 50 iterations, 32 batch)  
+4. **Resnet** (50 iterations, 32 batch)  
 Train accuracy: 79.37%  
 Val accuracy: 65.62%  
 
