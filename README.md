@@ -52,6 +52,14 @@
 |오서영|Model Selection to complement accuracy, Page Design __ [[Model Code]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Image_recognition_DeepLearning_Models/20200823_Model_Selection_with_more_data)  [[Design]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Main_Design)|
 |강성원|Implementation of mobile app - Add new pages with page design|  
 
+> 6. 20200824 ~ 20200830  
+
+|Developer|Individual Role|
+|---|------|
+|정명지|Study AI and JAVA for report|
+|오서영|Model Selection to complement accuracy, Test with a sample [[test]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Image_recognition_DeepLearning_Models/20200830_Model_Selection_Final/Test.ipynb)|
+|강성원|Implementation of mobile app - Implement camera, build data models|  
+
 ## Dataset for DeepLearning
 1. Tensorflow Dataset - tf_flowers, https://www.tensorflow.org/datasets/catalog/tf_flowers  
     the number of classes : **5** (daisy, dandelion, roses, sunflowers, tulips)
