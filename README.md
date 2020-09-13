@@ -60,7 +60,14 @@
 |오서영|Model Selection to complement accuracy, Test with a sample [[Test]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Image_recognition_DeepLearning_Models/20200830_Model_Selection_Final/Test.ipynb)|
 |강성원|Implementation of mobile app - Implement camera, build data models|  
 
-> 8. 20200831 ~ 
+> 8. 20200831 ~  
+
+|Developer|Individual Role|
+|---|------|
+|정명지|Write up report|
+|오서영|Connecting Tensorflow Models to Android Studio, Menu Icon Design|
+|강성원|Connecting Tensorflow Models to Android Studio|  
+
 - Applying Tensorflow to Android
 1. Convert h5 to pb
 2. Convert pb to tflite  
