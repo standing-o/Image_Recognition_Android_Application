@@ -65,7 +65,7 @@
 |Developer|Individual Role|
 |---|------|
 |정명지|Write up report|
-|오서영|Connecting Tensorflow Models to Android Studio, Menu Icon Design|
+|오서영|Connecting Tensorflow Models to Android Studio, Menu Icon Design [[Code]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Image_recognition_DeepLearning_Models/20200906_Connect_to_Android)  [[Icon]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Main_Design/menu_icon)|
 |강성원|Connecting Tensorflow Models to Android Studio|  
 
 - Applying Tensorflow to Android
