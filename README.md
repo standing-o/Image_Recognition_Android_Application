@@ -108,7 +108,8 @@ Train accuracy: 80.00%
 Val accuracy: 80.00%  
 
 ## Reference
-[1] [coding-practice by osterburg], https://github.com/osterburg/coding-practice
+[1] [Advanced Computer Vision with TensorFlow], https://stephan-osterburg.gitbook.io/coding/coding/ml-dl/tensorfow  
+
 
 
 
