@@ -73,8 +73,7 @@
 2. Convert pb to tflite  
 
 ## Dataset for DeepLearning
-1. Tensorflow Dataset
-- the number of classes : **5** (daisy, dandelion, roses, sunflowers, tulips)
+1. Tensorflow Flower Dataset : **5** classes (daisy, dandelion, roses, sunflowers, tulips)
 
 ## Result
 - 2939 training set with 5 class
