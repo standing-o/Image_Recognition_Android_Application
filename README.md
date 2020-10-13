@@ -75,7 +75,7 @@
 ## Dataset for DeepLearning
 1. Tensorflow Flower Dataset : **5** classes (daisy, dandelion, roses, sunflowers, tulips)
 
-## Result
+## Results  
 - 2939 training set with 5 class
 1. Baseline **CNN** (100 iterations, 32 batch)  [[Model]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Image_recognition_DeepLearning_Models/20200807_baseline_CNN_code)  
 Train accuracy: 85.62%  
