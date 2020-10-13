@@ -73,8 +73,8 @@
 2. Convert pb to tflite  
 
 ## Dataset for DeepLearning
-1. Tensorflow Dataset - tf_flowers, https://www.tensorflow.org/datasets/catalog/tf_flowers  
-    the number of classes : **5** (daisy, dandelion, roses, sunflowers, tulips)
+1. Tensorflow Dataset
+- the number of classes : **5** (daisy, dandelion, roses, sunflowers, tulips)
 
 ## Result
 - 2939 training set with 5 class
@@ -108,8 +108,10 @@ Train accuracy: 80.00%
 Val accuracy: 80.00%  
 
 ## Reference
-[1] [Advanced Computer Vision with TensorFlow], https://stephan-osterburg.gitbook.io/coding/coding/ml-dl/tensorfow  
-
+```
+[1] Advanced Computer Vision with TensorFlow, https://stephan-osterburg.gitbook.io/coding/coding/ml-dl/tensorfow  
+[2] tf_flowers, https://www.tensorflow.org/datasets/catalog/tf_flowers  
+```
 
 
 
