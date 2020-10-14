@@ -4,7 +4,7 @@
 - Our Team name is **"Trinity"**  
 
 ## Process
-> 1. 20200706 ~ 20200712  
+#### 1. 20200706 ~ 20200712  
 
 |Developer|Individual Role|
 |---|------|
@@ -12,7 +12,7 @@
 |오서영|Basic Machine learning presentation - Overview ___ [[Presentation]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Presentation/20200710_basic_ML_1.pdf)|
 |강성원|Basic JAVA presentation - Overview|  
 
-> 2. 20200713 ~ 20200719  
+#### 2. 20200713 ~ 20200719  
 
 |Developer|Individual Role|
 |---|------|
@@ -20,7 +20,7 @@
 |오서영|Basic ML presentation - **Image classification with CNN** ___ [[Presentation]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Presentation/20200710_basic_ML_2.pdf)|
 |강성원|Basic JAVA presentation - **Android Studio**|  
 
-> 3. 20200727 ~ 20200803  
+#### 3. 20200727 ~ 20200803  
 
 |Developer|Individual Role|
 |---|------|
@@ -28,7 +28,7 @@
 |오서영|Mobile app design - icon, color, view ___ [[Main screen design]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Main_Design/main_screen)|
 |강성원|Mobile app - touch slide motion event|  
 
-> 4. 20200803 ~ 20200809  
+#### 4. 20200803 ~ 20200809  
 
 |Developer|Individual Role|
 |---|------|
@@ -36,7 +36,7 @@
 |오서영|Banner design, **Baseline CNN** with flower image dataset ___ [[Banner design]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Main_Design/launch_screen)  [[Code]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Image_recognition_DeepLearning_Models/20200807_baseline_CNN/Baseline_CNN.ipynb)|
 |강성원|Mobile app - UI relocation, touch event|  
 
-> 5. 20200810 ~ 20200816  
+#### 5. 20200810 ~ 20200816  
 
 |Developer|Individual Role|
 |---|------|
@@ -44,7 +44,7 @@
 |오서영|Single layer NN Presentation for study, **Resnet** ___ [[Presentation]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Presentation_for_study/20200816_basic_ML_3/20200816_Single_Layer_Neural_Network.ipynb)  [[Code]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Image_recognition_DeepLearning_Models/20200816_Resnet_code/Resnet_with_flower_dataset.ipynb)|
 |강성원|Android Studio Presentation for study, Mobile app - Animation, in-app data insertion|  
 
-> 6. 20200817 ~ 20200823  
+#### 6. 20200817 ~ 20200823  
 
 |Developer|Individual Role|
 |---|------|
@@ -52,7 +52,7 @@
 |오서영|Model Selection to complement accuracy, Page Design __ [[Code]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Image_recognition_DeepLearning_Models/20200823_Model_Selection_with_more_data)  [[Design]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Main_Design)|
 |강성원|Mobile app - Add new pages with page design|  
 
-> 7. 20200824 ~ 20200830  
+#### 7. 20200824 ~ 20200830  
 
 |Developer|Individual Role|
 |---|------|
@@ -60,7 +60,7 @@
 |오서영|Test with a sample ___ [[Test]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/blob/master/Image_recognition_DeepLearning_Models/20200830_Model_Selection_Final/Test.ipynb)|
 |강성원|Mobile app - Implement camera, build data models|  
 
-> 8. 20200831 ~  
+#### 8. 20200831 ~  
 
 |Developer|Individual Role|
 |---|------|
