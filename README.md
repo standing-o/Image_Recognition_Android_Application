@@ -69,11 +69,11 @@
 |강성원|Connecting Tensorflow Models to Android Studio|  
 
 > Applying Tensorflow to Android
-1. Convert h5 to pb
-2. Convert pb to tflite  
+> 1. Convert h5 to pb
+> 2. Convert pb to tflite  
 
 ## Dataset for DeepLearning
-1. Tensorflow Flower Dataset : **5** classes (daisy, dandelion, roses, sunflowers, tulips)
+- Tensorflow Flower Dataset : **5** classes (daisy, dandelion, roses, sunflowers, tulips)
 
 ## Results  
 ### 2939 training set with 5 class
