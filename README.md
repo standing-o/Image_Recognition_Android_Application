@@ -74,6 +74,9 @@
 
 ## Dataset for DeepLearning
 - Tensorflow Flower Dataset : **5** classes (daisy, dandelion, roses, sunflowers, tulips)
+```
+[1] tf_flowers, https://www.tensorflow.org/datasets/catalog/tf_flowers
+```
 
 ## Results  
 ### 2939 training set with 5 class
@@ -108,8 +111,7 @@ Val accuracy: 80.00%
 
 ## Reference
 ```
-[1] Advanced Computer Vision with TensorFlow, https://stephan-osterburg.gitbook.io/coding/coding/ml-dl/tensorfow  
-[2] tf_flowers, https://www.tensorflow.org/datasets/catalog/tf_flowers  
+[1] Advanced Computer Vision with TensorFlow, https://stephan-osterburg.gitbook.io/coding/coding/ml-dl/tensorfow    
 ```
 
 
