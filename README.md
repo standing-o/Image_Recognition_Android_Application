@@ -69,8 +69,9 @@
 |강성원|Connecting Tensorflow Models to Android Studio|  
 
 > Applying Tensorflow to Android
-> 1. Convert h5 to pb
-> 2. Convert pb to tflite  
+1. Convert h5 to pb
+2. Convert pb to tflite  
+3. Make test.py file | [[Code]](https://github.com/OH-Seoyoung/Image_Recognition_Android_Application/tree/master/Image_recognition_DeepLearning_Models/20201119_Test_in_Android)  
 
 ## Dataset for DeepLearning
 - Tensorflow Flower Dataset : **5** classes (daisy, dandelion, roses, sunflowers, tulips)
